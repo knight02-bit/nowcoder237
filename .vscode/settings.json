@@ -1,0 +1,14 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#4C2207",
+        "titleBar.activeBackground": "#6A300A",
+        "titleBar.activeForeground": "#FEFBF8"
+    },
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "aiXcoder.showTrayIcon": true,
+    "files.associations": {
+        "algorithm": "cpp",
+        "limits": "cpp",
+        "utility": "cpp"
+    }
+}
