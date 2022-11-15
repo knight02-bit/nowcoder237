@@ -252,7 +252,7 @@
 - [ ] NC22096 [数字三角形](https://ac.nowcoder.com/acm/problem/22096)
 - [ ] NC16708 [过河卒](https://ac.nowcoder.com/acm/problem/16708)
 - [ ] NC16619 [传球游戏](https://ac.nowcoder.com/acm/problem/16619)
-- [ ] NC16810 [[NOIP1999\]拦截导弹](https://ac.nowcoder.com/acm/problem/16810)
+- [x] NC16810 [[NOIP1999\]拦截导弹](https://ac.nowcoder.com/acm/problem/16810)
 - [ ] NC16664 [[NOIP2004\]合唱队形](https://ac.nowcoder.com/acm/problem/16664)
 - [ ] NC235954 [滑雪](https://ac.nowcoder.com/acm/problem/235954)
 - [ ] NC235948 [最大子串和](https://ac.nowcoder.com/acm/problem/235948)
